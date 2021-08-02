@@ -1,1 +1,1 @@
-# VBA-HomeWork
+In this stock market analysis, a script was written to loop through numerous stocks for a year and output the following information: ticker symbol, yearly chnage from opening price at the start of the year to closing price at the end of the year, and total stock volume. 
